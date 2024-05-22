@@ -8,6 +8,7 @@ It also provided a good opportunity to develop skills and experience in a range 
 
 <img width="592" alt="workflow" src="https://github.com/Usama8H/Reddit_Pipeline/assets/147407087/8f07bce1-513f-4cb6-a212-206e24690f6f">
 
+
 1. Extract data using Reddit API
 2. Load into AWS S3
 3. Copy into AWS Redshift
